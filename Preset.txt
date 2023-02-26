@@ -1,0 +1,24 @@
+Anthill:
+    The amount of food at the beginning: 100
+Mother:
+    Food consumption(very much): 5
+    Number of born larvae: 1
+Soldier:
+    Quantity at the beginning: 3
+    Food consumption(much):  3
+    Number of parasites destroyed: 1
+Polizei:
+    Quantity at the beginning: 2
+    Food consumption(medium): 2
+    Food increase modifier percentage: 50
+Worker:
+    Quantity at the beginning: 10
+    Food consumption(little): 1
+    The amount of food produced: 5
+Larva:
+    Quantity at the beginning: 2
+    Food consumption(medium): 2
+    Growth time: 5
+Parasite:
+    Quantity at the beginning: 10
+    Food consumption(much): 3
